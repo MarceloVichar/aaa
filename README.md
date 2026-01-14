@@ -70,4 +70,3 @@ $> php artisan test
 ```
 $> composer run lint
 ```
-# aaa
